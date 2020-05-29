@@ -1,4 +1,6 @@
+emergencyfix
 test the stash command
+dfsjhgkshdhere herer 
 # Starter Web Repo
 change this document in thee master branch
 create this to test how to handle conflict when pull from git hub
