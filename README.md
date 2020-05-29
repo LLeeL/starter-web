@@ -1,7 +1,7 @@
 test the stash command
 # Starter Web Repo
 change this document in thee master branch
-this is first level
+create a conflict when pull from github
 This repository is for showing how Git and GitHub work
 
 ## Purpose
