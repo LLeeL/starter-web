@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 emergencyfix
+=======
+sjdhfkajlhfkljdhaskljfhfkjdlsa handle
+test the stash
+>>>>>>> Stashed changes
 test the stash command
 dfsjhgkshdhere herer 
 # Starter Web Repo
